@@ -8,8 +8,8 @@ Here we have project screenshot :
 ![screenshot](screenshot.jpg)
 
 # MUZZAMIL
-#User Authentication System
-#Overview
+# User Authentication System
+# **Overview**
 Developed a comprehensive user authentication system featuring a responsive front-end interface paired with a secure PHP and MySQLi back-end implementation. The system provides seamless user registration and login functionality with robust security measures.
 Front-End Implementation
 
@@ -19,7 +19,7 @@ Designed accessible form elements with appropriate labeling and error messaging
 Incorporated visual feedback for form submission states (loading, success, error)
 Applied modern CSS styling with subtle animations to enhance user experience
 
-#Back-End Development
+# Back-End Development
 
 Engineered a secure authentication system using PHP and MySQLi for database interactions
 Implemented password hashing using bcrypt to ensure user credentials are stored securely
@@ -28,7 +28,7 @@ Developed comprehensive input validation and sanitization to protect against XSS
 Implemented session management for maintaining user login state
 Created secure password reset functionality with tokenized email verification
 
-#Security Features
+# Security Features
 
 Applied CSRF protection using unique tokens for form submissions
 Implemented rate limiting to prevent brute force attacks
@@ -36,7 +36,7 @@ Created secure HTTP-only cookies for session management
 Established proper error handling that doesn't expose sensitive system information
 Implemented secure validation patterns for usernames, emails, and passwords
 
-#Database Design
+# Database Design
 
 Designed normalized database schema for efficient user data storage
 Created appropriate indexes for optimized query performance
